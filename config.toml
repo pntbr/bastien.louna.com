@@ -16,7 +16,7 @@ timeout      = 2000000
 
         # Enable Exif data in the gallery.
         # See https://gohugo.io/content-management/image-processing/#exif-data for how to filter tags.
-        enable_exif = true
+        enable_exif = false
 
 [caches]
     [caches.images]
